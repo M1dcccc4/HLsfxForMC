@@ -8,7 +8,7 @@
  - 玩家受伤、攻击音效
  - 水中音效
  - 玻璃碎裂音效
- - 唱片 11、13、blocks、cat、chirp、far、vmall、mellohi、stal、strad、wait、ward
+ - 唱片 11、13、blocks、cat、chirp、far、mall、mellohi、stal、strad、wait、ward
  - 箭击中声
  - 获取经验、升级音效
  - 弩音效
